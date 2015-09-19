@@ -1,6 +1,9 @@
 #!/bin/sh
 
 cat << EOF > README.md
+**NOTICE: THIS SOFTWARE HAS BEEN RENAMED.**
+Check out [Kuvia](https://github.com/Lepovirta/kuvia) instead.
+
 # Instant Gallery
 
 Instant Gallery is a simple image gallery for static web sites.

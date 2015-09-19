@@ -1,3 +1,6 @@
+**NOTICE: THIS SOFTWARE HAS BEEN RENAMED.**
+Check out [Kuvia](https://github.com/Lepovirta/kuvia) instead.
+
 # Instant Gallery
 
 Instant Gallery is a simple image gallery for static web sites.
@@ -5,22 +8,6 @@ Give it a list of image files, and you've got an image gallery that can be hoste
 
 ## Usage
 
-    Usage: instantgallery [OPTIONS] [FILE ...]
-    Instant Gallery page generator
-    
-      -h, --help          Display this help.
-      -o, --output=ARG    File to write the page to. Uses STDOUT if not specified.
-      -d, --dir=ARG+      Directories to scan for images.
-      -r, --recursive     Recursively scan directories for images.
-      -t, --types=ARG     Comma separated list of file types to include in image scanning
-      -e, --pattern=ARG+  Patterns for scanning image files
-      -p, --prefix=ARG    Prefix to add to each scanned file
-      -j, --json=ARG      Custom JSON source for images
-          --php           Use PHP to load the list of images.
-      -J, --js=ARG+       URLs to custom JavaScript files
-      -C, --css=ARG+      URLs to custom CSS files
-          --no-min        Disable minimization
-    
 
 ## Documentation
 
